@@ -1,4 +1,4 @@
-# ClaimForge — AI Patent Claim Chart Refinement
+# ClaimForge - AI Patent Claim Chart Refinement
 
 A production-quality, front-end-only React app for refining patent claim charts
 conversationally. It feels like **ChatGPT + Notion + Linear**: a chat assistant on
